@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "handlebars": "^4.0.12",
+    "heroku": "^7.18.5",
+    "node-modules": "^1.0.1",
+    "package.json": "^2.0.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissamurphey77/Friend-Finder.git"
+  },
+  "author": "Melissa Murphey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissamurphey77/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/melissamurphey77/Friend-Finder#readme"
+}
