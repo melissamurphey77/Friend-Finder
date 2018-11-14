@@ -4,12 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.4",
-    "handlebars": "^4.0.12",
-    "heroku": "^7.18.5",
-    "node-modules": "^1.0.1",
-    "package.json": "^2.0.1",
-    "path": "^0.12.7"
+    "express": "^4.16.4"
   },
   "devDependencies": {},
   "scripts": {
